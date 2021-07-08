@@ -4,7 +4,7 @@
 :construction_worker: I am currently working at Kagati Tech.\
 :bulb: Learning Flutter, also interested in ML/DL.\
 🎓Computer Engineer.\
-✍️In my free time, I love to watch Anime, play games.\
+✍️In my free time, I love to watch Anime, play games.
 
 ### 🛠 &nbsp;Tech Stack
 
