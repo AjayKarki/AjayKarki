@@ -1,6 +1,5 @@
 ## Hey there! I'm Ajay
 
-:bulb: Learning Flutter, also interested in ML/DL.\
 🎓Computer Engineer.\
 ✍️In my free time, I love to watch Anime, play games.
 
