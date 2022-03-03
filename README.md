@@ -7,6 +7,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-white?style=flat&logo=django&logoColor=092E20)&nbsp;
+![RestAPI](https://img.shields.io/badge/-REST-white?style=flat&logo=rest&logoColor=092E20)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat&logo=graphql&logoColor=092E20)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-white?style=flat&logo=flutter&logoColor=092E20)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=092E20)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-white?style=flat&logo=amazonaws&logoColor=092E20)&nbsp;
