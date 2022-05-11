@@ -1,7 +1,7 @@
 ## Hey there! I'm Ajay
 
-🎓Computer Engineer.\
-✍️In my free time, I love to watch Anime, play games.
+🎓 Computer Engineer.\
+✍️ In my free time, I love to watch Anime, play games.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,20 +19,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<p align="start">
-<a href="https://github.com/AjayKarki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
- -->
 
+<a href="https://github.com/AjayKarki"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+<br>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" />
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a target="_blank" href="https://ajaykarki.github.io/"><img src="https://img.shields.io/badge/-ajaykarki.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/ajay-karki-824671112/"><img src="https://img.shields.io/badge/-AjayKarki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:ajaykarki333@gmail.com"><img src="https://img.shields.io/badge/-ajaykarki333@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@ajaykarki333-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@ajaykarki333-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a target="_blank" href="https://ajaykarki.github.io/"><img src="https://img.shields.io/badge/-ajaykarki.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a><br>
+<a target="_blank" href="https://www.linkedin.com/in/ajay-karki-824671112/"><img src="https://img.shields.io/badge/-AjayKarki-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="mailto:ajaykarki333@gmail.com"><img src="https://img.shields.io/badge/-ajaykarki333@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.instagram.com/ajaykarki333/"><img src="https://img.shields.io/badge/-ajaykarki333-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a target="_blank" href="https://www.facebook.com/ajaykarki333/"><img src="https://img.shields.io/badge/-ajaykarki333-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
