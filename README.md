@@ -20,8 +20,8 @@
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div><img height="180em"  width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=dark" alt="AjayKarki" />
+<div><img height="180em"  width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=dark" alt="AjayKarki" />
   </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
