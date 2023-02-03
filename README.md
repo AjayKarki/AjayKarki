@@ -22,7 +22,7 @@
 
 <a href="https://github.com/AjayKarki"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 <br>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=dark" alt="AjayKarki" />
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
