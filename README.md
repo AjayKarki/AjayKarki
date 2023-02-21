@@ -2,7 +2,7 @@
 
 🎓 Computer Engineer.\
 ✍️ In my free time, I love to watch Anime, play games. \
-<a href = "https://commits.top/egypt.html" target="_blank">
+<a href = "https://commits.top/nepal.html" target="_blank">
 			<img src="https://aktive.tk/nepal/AjayKarki?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 </a>
 ### 🛠 &nbsp;Tech Stack
