@@ -11,6 +11,7 @@
 ![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=092E20)&nbsp;
+![AirFlow](https://img.shields.io/badge/-Airflow-white?style=for-the-badge&logo=airflow)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=092E20)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=092E20)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=092E20)&nbsp;
