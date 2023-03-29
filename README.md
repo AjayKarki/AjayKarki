@@ -15,8 +15,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=092E20)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=092E20)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=092E20)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
