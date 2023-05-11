@@ -2,8 +2,8 @@
 
 🎓 Computer Engineer.\
 ✍️ In my free time, I love to watch Anime, play games. \
-<a href = "https://commits.top/nepal_private.html" target="_blank">
-			<img src="https://aktive.tk/nepal/AjayKarki?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+<!-- <a href = "https://commits.top/nepal_private.html" target="_blank"> -->
+<!-- <img src="https://aktive.tk/nepal/AjayKarki?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/>  -->
 </a>
 ### 🛠 &nbsp;Tech Stack
 
