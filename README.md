@@ -7,7 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=AjayKarki&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajaykarki&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykarki&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
